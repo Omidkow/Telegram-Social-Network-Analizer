@@ -1,0 +1,8 @@
+# Local data and cache
+result.json
+telegram_graph_7days.pkl
+telegram_graph_1days.pkl
+telegram_graph_3days.pkl
+telegram_graph.pkl
+__pycache__/
+.venv/
